@@ -15,7 +15,7 @@ Diverse cell types within a tissue assemble into multicellular structures to sha
 
 (4) Cannot correctly identify tissue structures with spatial discontinuous distribution.
 
-Building upon our recently established tissue structure identification framework CytoCommunity (https://github.com/huBioinfo/CytoCommunity), we developed **HRCHY-CytoCommunity**, which utilized a graph neural network (GNN) model to identify hierarchical tissue structures on single-cell spatial maps. HRCHY-CytoCommunity models the identification of hierarchical tissue structures as a MinCut-based hierarchical community detection problem, offering several advantages:
+Building upon our recently established tissue structure identification framework [CytoCommunity](https://github.com/huBioinfo/CytoCommunity), we developed **HRCHY-CytoCommunity**, which utilized a graph neural network (GNN) model to identify hierarchical tissue structures on single-cell spatial maps. HRCHY-CytoCommunity models the identification of hierarchical tissue structures as a MinCut-based hierarchical community detection problem, offering several advantages:
 
 (1) HRCHY-CytoCommunity identifies hierarchical tissue structures from a cellular-based perspective, making it suitable for single-cell-resolution spatial omics data, while ensuring that the hierarchical structures cover all cells within the data.
 
@@ -32,10 +32,10 @@ Building upon our recently established tissue structure identification framework
 ## Getting started
 Please refer to the documentation. In particular, the
 
-[Installation](https://hrchy-cytocommunity.readthedocs.io/en/latest/Installation.html)
-[API documentation](https://hrchy-cytocommunity.readthedocs.io/en/latest/index.html)
-[Tutorials](https://hrchy-cytocommunity.readthedocs.io/en/latest/index.html)
-[User guide](https://hrchy-cytocommunity.readthedocs.io/en/latest/user_guide/hyperparameter.html)
+- [Installation](https://hrchy-cytocommunity.readthedocs.io/en/latest/Installation.html)
+- [API documentation](https://hrchy-cytocommunity.readthedocs.io/en/latest/index.html)
+- [Tutorials](https://hrchy-cytocommunity.readthedocs.io/en/latest/index.html)
+- [User guide](https://hrchy-cytocommunity.readthedocs.io/en/latest/user_guide/hyperparameter.html)
 
 
 ## Maintainers
