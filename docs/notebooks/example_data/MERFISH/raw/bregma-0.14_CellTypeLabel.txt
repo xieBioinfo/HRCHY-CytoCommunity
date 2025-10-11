@@ -1,0 +1,5926 @@
+Astrocyte
+Astrocyte
+Endothelial 1
+Endothelial 1
+OD Mature 2
+Inhibitory
+Astrocyte
+Endothelial 1
+Astrocyte
+OD Immature 1
+Endothelial 1
+Astrocyte
+Astrocyte
+Endothelial 1
+Endothelial 1
+Endothelial 1
+Excitatory
+Excitatory
+Astrocyte
+Astrocyte
+Excitatory
+Astrocyte
+OD Immature 1
+Endothelial 3
+Inhibitory
+Astrocyte
+Astrocyte
+Endothelial 1
+OD Immature 1
+Endothelial 1
+Endothelial 3
+OD Immature 1
+Excitatory
+Astrocyte
+Astrocyte
+Astrocyte
+Astrocyte
+Excitatory
+OD Mature 2
+Endothelial 1
+Microglia
+Astrocyte
+Microglia
+Inhibitory
+Excitatory
+Endothelial 1
+Endothelial 1
+Endothelial 1
+Endothelial 1
+Endothelial 1
+Astrocyte
+Endothelial 1
+Inhibitory
+Excitatory
+Excitatory
+Endothelial 1
+Endothelial 1
+Excitatory
+OD Mature 2
+Astrocyte
+Microglia
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+OD Immature 1
+Inhibitory
+OD Mature 2
+Astrocyte
+Microglia
+OD Mature 2
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Endothelial 3
+Astrocyte
+Astrocyte
+Astrocyte
+Endothelial 3
+Inhibitory
+Astrocyte
+OD Immature 1
+Inhibitory
+Excitatory
+OD Mature 2
+Astrocyte
+Inhibitory
+OD Mature 2
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Astrocyte
+Inhibitory
+Endothelial 1
+Excitatory
+OD Mature 2
+OD Mature 2
+Astrocyte
+Excitatory
+Inhibitory
+Excitatory
+OD Mature 1
+Inhibitory
+Inhibitory
+Astrocyte
+OD Immature 1
+Inhibitory
+Astrocyte
+OD Mature 2
+Excitatory
+Inhibitory
+Endothelial 3
+Endothelial 1
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 1
+Astrocyte
+Astrocyte
+Inhibitory
+Inhibitory
+Astrocyte
+Endothelial 1
+Excitatory
+Astrocyte
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Endothelial 1
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+OD Mature 1
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+OD Immature 1
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 1
+Astrocyte
+Inhibitory
+OD Immature 1
+Inhibitory
+Pericytes
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Microglia
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Excitatory
+Endothelial 1
+Endothelial 3
+Pericytes
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+OD Mature 2
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Endothelial 1
+Astrocyte
+Endothelial 1
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Microglia
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Astrocyte
+Endothelial 1
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+OD Immature 1
+Astrocyte
+Inhibitory
+Astrocyte
+Microglia
+Inhibitory
+OD Mature 2
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 1
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Endothelial 3
+Microglia
+Inhibitory
+OD Immature 1
+Excitatory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Astrocyte
+Endothelial 1
+Astrocyte
+Astrocyte
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Inhibitory
+OD Mature 1
+Astrocyte
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Microglia
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Microglia
+Astrocyte
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 1
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 3
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+OD Immature 1
+Inhibitory
+Microglia
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+OD Mature 2
+Microglia
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Astrocyte
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Astrocyte
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Endothelial 1
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Astrocyte
+Astrocyte
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Astrocyte
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 2
+Excitatory
+Astrocyte
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+OD Immature 1
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+OD Immature 1
+Endothelial 3
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 1
+OD Mature 2
+Inhibitory
+Inhibitory
+Endothelial 1
+Excitatory
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Astrocyte
+Excitatory
+OD Mature 2
+Inhibitory
+Inhibitory
+Endothelial 1
+Excitatory
+Endothelial 1
+Inhibitory
+Microglia
+Excitatory
+Endothelial 1
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Astrocyte
+OD Mature 2
+OD Mature 2
+OD Mature 2
+OD Mature 1
+Endothelial 1
+OD Mature 2
+OD Mature 2
+OD Mature 2
+OD Mature 2
+OD Mature 2
+OD Mature 2
+OD Mature 2
+OD Mature 2
+OD Mature 2
+OD Mature 2
+Microglia
+OD Mature 2
+OD Mature 2
+OD Mature 2
+OD Mature 2
+Excitatory
+OD Mature 2
+Inhibitory
+Astrocyte
+OD Mature 2
+OD Mature 2
+OD Mature 2
+Astrocyte
+OD Mature 1
+Excitatory
+OD Mature 2
+Astrocyte
+OD Mature 2
+OD Mature 2
+OD Mature 2
+Microglia
+OD Immature 1
+Endothelial 3
+Endothelial 1
+OD Mature 2
+OD Mature 2
+Astrocyte
+OD Immature 1
+OD Mature 4
+Microglia
+OD Mature 2
+Inhibitory
+Excitatory
+Endothelial 1
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Excitatory
+OD Mature 2
+OD Immature 1
+OD Mature 2
+Microglia
+Endothelial 1
+Endothelial 3
+Excitatory
+Inhibitory
+Inhibitory
+OD Immature 1
+Microglia
+Excitatory
+Inhibitory
+Excitatory
+OD Mature 2
+Excitatory
+Excitatory
+OD Mature 2
+Endothelial 1
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+OD Mature 4
+Excitatory
+OD Mature 2
+Excitatory
+OD Mature 2
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+OD Immature 1
+Endothelial 1
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+OD Immature 1
+Inhibitory
+Microglia
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Excitatory
+Microglia
+Inhibitory
+Inhibitory
+OD Immature 1
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Endothelial 3
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Microglia
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Astrocyte
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Microglia
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+OD Mature 2
+Inhibitory
+OD Mature 1
+Inhibitory
+Microglia
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Astrocyte
+Endothelial 3
+Inhibitory
+Endothelial 1
+OD Mature 1
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+OD Mature 2
+Endothelial 1
+Astrocyte
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Astrocyte
+Astrocyte
+Inhibitory
+OD Immature 1
+Inhibitory
+Endothelial 3
+Inhibitory
+Inhibitory
+OD Mature 4
+Inhibitory
+OD Immature 1
+OD Mature 2
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Endothelial 3
+Endothelial 1
+OD Immature 1
+Astrocyte
+OD Mature 2
+Excitatory
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Endothelial 1
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+OD Mature 2
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+OD Mature 2
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+OD Immature 1
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Endothelial 3
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+OD Mature 2
+Astrocyte
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+OD Mature 2
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+OD Immature 1
+Inhibitory
+Inhibitory
+Microglia
+Endothelial 1
+Astrocyte
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Endothelial 3
+Astrocyte
+Endothelial 3
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+OD Immature 1
+Astrocyte
+Astrocyte
+Inhibitory
+Inhibitory
+OD Mature 2
+Astrocyte
+Astrocyte
+OD Immature 1
+Pericytes
+Pericytes
+Astrocyte
+Excitatory
+Astrocyte
+Pericytes
+Excitatory
+Inhibitory
+Astrocyte
+Endothelial 1
+Excitatory
+Astrocyte
+Astrocyte
+Inhibitory
+OD Immature 1
+Excitatory
+Excitatory
+Inhibitory
+Astrocyte
+Microglia
+Astrocyte
+Endothelial 3
+Astrocyte
+Inhibitory
+Excitatory
+Astrocyte
+Excitatory
+Inhibitory
+Excitatory
+Endothelial 1
+Endothelial 1
+Endothelial 1
+Endothelial 1
+Endothelial 1
+Astrocyte
+Inhibitory
+Astrocyte
+Inhibitory
+Astrocyte
+OD Mature 2
+Excitatory
+Endothelial 1
+Endothelial 1
+Excitatory
+Pericytes
+Astrocyte
+Excitatory
+Endothelial 1
+Inhibitory
+Excitatory
+Inhibitory
+Endothelial 1
+Excitatory
+Excitatory
+Endothelial 2
+Excitatory
+Astrocyte
+Astrocyte
+Inhibitory
+Excitatory
+Excitatory
+Endothelial 3
+Astrocyte
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Pericytes
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+OD Immature 1
+Astrocyte
+Endothelial 1
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Excitatory
+Astrocyte
+Excitatory
+Endothelial 1
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Microglia
+Inhibitory
+Excitatory
+Endothelial 1
+OD Mature 3
+Excitatory
+Astrocyte
+Pericytes
+Inhibitory
+Inhibitory
+Inhibitory
+Pericytes
+OD Mature 2
+Inhibitory
+Excitatory
+Excitatory
+OD Immature 2
+Microglia
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Pericytes
+Inhibitory
+Astrocyte
+Excitatory
+Excitatory
+OD Immature 1
+Excitatory
+OD Mature 2
+Excitatory
+Endothelial 1
+Excitatory
+Astrocyte
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+OD Mature 2
+Excitatory
+OD Immature 1
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+OD Immature 1
+Astrocyte
+Excitatory
+Astrocyte
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+OD Immature 1
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Excitatory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 1
+Excitatory
+OD Immature 1
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Excitatory
+Endothelial 1
+Inhibitory
+Astrocyte
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 1
+Endothelial 3
+Endothelial 1
+Microglia
+Endothelial 3
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 1
+Endothelial 1
+Excitatory
+Inhibitory
+Endothelial 1
+OD Mature 2
+Astrocyte
+Endothelial 3
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Astrocyte
+Pericytes
+Pericytes
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+OD Immature 1
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Astrocyte
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Microglia
+Endothelial 1
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 3
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 3
+Endothelial 1
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+OD Immature 1
+Endothelial 1
+Inhibitory
+Microglia
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Astrocyte
+Inhibitory
+OD Immature 1
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 3
+Excitatory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+OD Mature 1
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+OD Mature 2
+OD Immature 1
+Inhibitory
+Excitatory
+Astrocyte
+Endothelial 3
+Astrocyte
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+OD Immature 1
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 1
+Astrocyte
+Excitatory
+Microglia
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Endothelial 1
+Endothelial 2
+OD Mature 1
+Astrocyte
+Endothelial 1
+OD Mature 1
+Astrocyte
+Inhibitory
+Inhibitory
+Endothelial 1
+Astrocyte
+Inhibitory
+Endothelial 3
+Astrocyte
+Inhibitory
+OD Immature 1
+Astrocyte
+OD Mature 1
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Astrocyte
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Endothelial 3
+OD Mature 2
+OD Mature 1
+OD Mature 2
+Excitatory
+Excitatory
+OD Mature 2
+Endothelial 3
+Endothelial 1
+OD Mature 2
+Excitatory
+OD Mature 2
+Astrocyte
+Inhibitory
+Astrocyte
+Endothelial 1
+Excitatory
+Endothelial 3
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+OD Mature 2
+Excitatory
+OD Mature 4
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Astrocyte
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Astrocyte
+Microglia
+Inhibitory
+Excitatory
+OD Mature 2
+OD Mature 2
+OD Mature 2
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+OD Mature 2
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Endothelial 3
+Excitatory
+Excitatory
+Excitatory
+Endothelial 3
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Excitatory
+Astrocyte
+Endothelial 3
+Excitatory
+Endothelial 1
+Excitatory
+Endothelial 1
+Excitatory
+Excitatory
+Excitatory
+Endothelial 1
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+OD Mature 2
+Excitatory
+OD Immature 1
+Excitatory
+Excitatory
+Excitatory
+Endothelial 3
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Endothelial 3
+Inhibitory
+Endothelial 3
+OD Mature 2
+Astrocyte
+Endothelial 2
+Astrocyte
+Endothelial 3
+Astrocyte
+Microglia
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Astrocyte
+OD Immature 1
+OD Immature 1
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Excitatory
+Astrocyte
+Inhibitory
+Astrocyte
+Astrocyte
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Excitatory
+Astrocyte
+Excitatory
+OD Immature 1
+Excitatory
+Excitatory
+OD Immature 1
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+OD Mature 2
+Endothelial 2
+Excitatory
+OD Mature 2
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+OD Immature 1
+Endothelial 3
+Astrocyte
+Inhibitory
+Endothelial 1
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+OD Immature 1
+Inhibitory
+Microglia
+Endothelial 3
+Inhibitory
+Microglia
+OD Immature 2
+Excitatory
+Inhibitory
+OD Immature 2
+Inhibitory
+Astrocyte
+Inhibitory
+Astrocyte
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Excitatory
+Microglia
+Astrocyte
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Astrocyte
+OD Mature 4
+Inhibitory
+Inhibitory
+OD Mature 2
+OD Immature 2
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 1
+Excitatory
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Astrocyte
+Endothelial 1
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Excitatory
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+OD Immature 1
+Endothelial 1
+Astrocyte
+Inhibitory
+Astrocyte
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 1
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Excitatory
+Excitatory
+Endothelial 1
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+OD Immature 1
+Inhibitory
+OD Immature 1
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Inhibitory
+Excitatory
+Endothelial 1
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Astrocyte
+Excitatory
+Inhibitory
+Astrocyte
+Excitatory
+Astrocyte
+Excitatory
+Endothelial 1
+Inhibitory
+Excitatory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+OD Immature 1
+Excitatory
+Endothelial 1
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Endothelial 1
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+OD Immature 1
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Endothelial 1
+Excitatory
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+OD Immature 1
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 3
+Excitatory
+Inhibitory
+Endothelial 1
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 1
+Inhibitory
+Excitatory
+Excitatory
+OD Immature 1
+Inhibitory
+Inhibitory
+Endothelial 1
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+OD Immature 1
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Endothelial 3
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Excitatory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 3
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Astrocyte
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Ependymal
+Ependymal
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Endothelial 1
+Ependymal
+Inhibitory
+Microglia
+Inhibitory
+Excitatory
+Excitatory
+Endothelial 1
+Inhibitory
+Inhibitory
+Endothelial 1
+Endothelial 1
+Excitatory
+Excitatory
+Endothelial 1
+Inhibitory
+Microglia
+Excitatory
+Inhibitory
+Microglia
+Astrocyte
+Excitatory
+Ependymal
+Excitatory
+Ependymal
+Inhibitory
+Ependymal
+Ependymal
+Inhibitory
+Ependymal
+Ependymal
+Ependymal
+Inhibitory
+Inhibitory
+Ependymal
+Ependymal
+Inhibitory
+Excitatory
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Endothelial 1
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Microglia
+Ependymal
+Ependymal
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Ependymal
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Ependymal
+Ependymal
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Ependymal
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+OD Immature 1
+Endothelial 2
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Ependymal
+Microglia
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Astrocyte
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Astrocyte
+Excitatory
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Ependymal
+Astrocyte
+Endothelial 1
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Ependymal
+Ependymal
+Ependymal
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Ependymal
+Ependymal
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Ependymal
+Ependymal
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Excitatory
+OD Immature 1
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Excitatory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Ependymal
+Astrocyte
+Ependymal
+Ependymal
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Endothelial 1
+Inhibitory
+OD Immature 1
+Ependymal
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 2
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 3
+Excitatory
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+OD Immature 1
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Ependymal
+Ependymal
+Ependymal
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Endothelial 2
+Inhibitory
+Endothelial 1
+Inhibitory
+Astrocyte
+Microglia
+Ependymal
+Ependymal
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Ependymal
+OD Immature 1
+OD Mature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Excitatory
+Microglia
+Astrocyte
+Astrocyte
+OD Immature 1
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Astrocyte
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Endothelial 1
+Astrocyte
+Astrocyte
+Astrocyte
+Astrocyte
+Astrocyte
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Microglia
+Astrocyte
+Astrocyte
+Astrocyte
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Astrocyte
+Endothelial 3
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Endothelial 3
+Endothelial 3
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 2
+Microglia
+Excitatory
+Ependymal
+OD Immature 1
+Astrocyte
+Astrocyte
+Inhibitory
+Astrocyte
+Astrocyte
+Astrocyte
+Astrocyte
+Ependymal
+Inhibitory
+Endothelial 3
+Inhibitory
+Ependymal
+Inhibitory
+Ependymal
+OD Immature 2
+Astrocyte
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Inhibitory
+Ependymal
+Ependymal
+Ependymal
+OD Immature 1
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Astrocyte
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Endothelial 1
+Endothelial 1
+Microglia
+Astrocyte
+Astrocyte
+Ependymal
+Excitatory
+Inhibitory
+Astrocyte
+Ependymal
+Astrocyte
+Inhibitory
+Endothelial 1
+Excitatory
+Endothelial 1
+Ependymal
+Astrocyte
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+OD Immature 1
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+OD Immature 1
+Ependymal
+Ependymal
+Ependymal
+Astrocyte
+Ependymal
+OD Immature 1
+Ependymal
+Ependymal
+Endothelial 2
+Ependymal
+Astrocyte
+Astrocyte
+Excitatory
+Ependymal
+Ependymal
+Astrocyte
+Ependymal
+Ependymal
+Ependymal
+Astrocyte
+Excitatory
+Endothelial 1
+Astrocyte
+Astrocyte
+OD Immature 1
+Excitatory
+Astrocyte
+Excitatory
+Ependymal
+Ependymal
+Ependymal
+OD Immature 1
+Astrocyte
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Ependymal
+Astrocyte
+Ependymal
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Endothelial 1
+Astrocyte
+Excitatory
+Excitatory
+Astrocyte
+Astrocyte
+Astrocyte
+Astrocyte
+OD Immature 1
+Astrocyte
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Astrocyte
+Astrocyte
+Astrocyte
+Astrocyte
+Excitatory
+Excitatory
+Endothelial 1
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Microglia
+Inhibitory
+Excitatory
+Astrocyte
+Astrocyte
+Astrocyte
+Endothelial 1
+Astrocyte
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Astrocyte
+Astrocyte
+Endothelial 1
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Astrocyte
+Endothelial 1
+Excitatory
+Excitatory
+Endothelial 3
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+OD Immature 1
+Excitatory
+Excitatory
+Endothelial 1
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Endothelial 1
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Endothelial 1
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Endothelial 1
+Excitatory
+Excitatory
+Excitatory
+Endothelial 1
+Excitatory
+Excitatory
+Excitatory
+OD Immature 1
+Endothelial 1
+Excitatory
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Astrocyte
+Astrocyte
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Astrocyte
+Excitatory
+Astrocyte
+Astrocyte
+Astrocyte
+Inhibitory
+Astrocyte
+Endothelial 3
+Excitatory
+Astrocyte
+Excitatory
+Microglia
+Endothelial 1
+Astrocyte
+Excitatory
+Endothelial 1
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Microglia
+OD Immature 1
+Endothelial 1
+Endothelial 3
+Excitatory
+Endothelial 1
+Astrocyte
+Excitatory
+Astrocyte
+OD Mature 2
+Endothelial 1
+Astrocyte
+Inhibitory
+Microglia
+Astrocyte
+Endothelial 1
+Astrocyte
+Excitatory
+Microglia
+Inhibitory
+Excitatory
+Astrocyte
+Excitatory
+Astrocyte
+Astrocyte
+Excitatory
+Astrocyte
+Astrocyte
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Astrocyte
+Astrocyte
+Astrocyte
+OD Mature 2
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Microglia
+Inhibitory
+OD Mature 1
+Astrocyte
+Inhibitory
+OD Immature 1
+Astrocyte
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Astrocyte
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+OD Mature 4
+Excitatory
+Astrocyte
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 2
+Inhibitory
+Astrocyte
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 3
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+OD Immature 1
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 1
+Excitatory
+Excitatory
+Astrocyte
+Endothelial 1
+Excitatory
+Excitatory
+OD Immature 1
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 1
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Endothelial 1
+Astrocyte
+Astrocyte
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+OD Mature 2
+Inhibitory
+Endothelial 1
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Endothelial 1
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 3
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Endothelial 3
+Astrocyte
+Inhibitory
+Inhibitory
+Endothelial 1
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+OD Immature 1
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Microglia
+Excitatory
+Excitatory
+Excitatory
+Microglia
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Endothelial 1
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 3
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+OD Immature 1
+Excitatory
+Microglia
+Inhibitory
+Inhibitory
+Endothelial 3
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+OD Mature 2
+Astrocyte
+Inhibitory
+Inhibitory
+OD Mature 4
+Inhibitory
+Endothelial 1
+Endothelial 1
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 1
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Microglia
+Inhibitory
+Endothelial 2
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+OD Immature 1
+Inhibitory
+Excitatory
+Astrocyte
+OD Immature 1
+Excitatory
+Excitatory
+Endothelial 1
+Inhibitory
+Excitatory
+Inhibitory
+Astrocyte
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+OD Immature 1
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Microglia
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Endothelial 1
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Microglia
+Inhibitory
+Endothelial 1
+Inhibitory
+OD Immature 1
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Astrocyte
+Excitatory
+Inhibitory
+Endothelial 1
+Astrocyte
+Astrocyte
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 1
+Excitatory
+OD Immature 1
+Endothelial 1
+Excitatory
+Microglia
+Excitatory
+Inhibitory
+Endothelial 1
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Astrocyte
+Astrocyte
+Pericytes
+Pericytes
+Excitatory
+Inhibitory
+Astrocyte
+Pericytes
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+OD Immature 1
+OD Immature 1
+Excitatory
+Inhibitory
+Endothelial 2
+Excitatory
+Pericytes
+Microglia
+Excitatory
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+OD Immature 1
+Astrocyte
+Pericytes
+Inhibitory
+Excitatory
+Excitatory
+Endothelial 2
+Pericytes
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Microglia
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Endothelial 1
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+OD Mature 2
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Endothelial 3
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+OD Immature 1
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 1
+Excitatory
+OD Mature 2
+Microglia
+Inhibitory
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Endothelial 1
+Astrocyte
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Microglia
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 3
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+OD Immature 1
+Inhibitory
+Astrocyte
+Inhibitory
+Endothelial 1
+Excitatory
+Endothelial 1
+Astrocyte
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Endothelial 1
+Excitatory
+Astrocyte
+Microglia
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Astrocyte
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Microglia
+Endothelial 3
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Endothelial 3
+Excitatory
+Endothelial 1
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+OD Immature 1
+Excitatory
+Excitatory
+Endothelial 1
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Endothelial 3
+Inhibitory
+Excitatory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Excitatory
+Endothelial 3
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Microglia
+Astrocyte
+Inhibitory
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+OD Immature 1
+Inhibitory
+Inhibitory
+Endothelial 3
+Endothelial 3
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Excitatory
+Astrocyte
+Astrocyte
+Inhibitory
+Astrocyte
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 3
+Astrocyte
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+OD Immature 1
+Astrocyte
+Microglia
+Astrocyte
+Astrocyte
+Endothelial 3
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+OD Mature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Endothelial 1
+Excitatory
+OD Mature 2
+OD Immature 1
+OD Mature 2
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+OD Mature 2
+Astrocyte
+Astrocyte
+OD Mature 2
+Inhibitory
+Microglia
+OD Immature 1
+OD Mature 2
+Astrocyte
+Excitatory
+OD Mature 2
+OD Immature 1
+OD Immature 1
+Excitatory
+Astrocyte
+OD Mature 2
+OD Mature 2
+OD Mature 2
+Excitatory
+Astrocyte
+Astrocyte
+OD Mature 2
+Excitatory
+OD Mature 2
+OD Mature 2
+OD Mature 2
+Inhibitory
+OD Mature 2
+OD Mature 2
+OD Mature 2
+OD Mature 2
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+OD Mature 1
+Endothelial 1
+Inhibitory
+OD Immature 1
+OD Mature 2
+OD Mature 1
+Endothelial 1
+OD Mature 2
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Endothelial 1
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Excitatory
+Microglia
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Endothelial 1
+Excitatory
+Astrocyte
+Endothelial 3
+Excitatory
+OD Mature 1
+Excitatory
+Inhibitory
+Endothelial 1
+Pericytes
+Excitatory
+Microglia
+Endothelial 1
+Excitatory
+Excitatory
+OD Mature 2
+Excitatory
+Endothelial 1
+Excitatory
+OD Immature 1
+Astrocyte
+Excitatory
+Astrocyte
+OD Mature 2
+Astrocyte
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+OD Immature 1
+Excitatory
+OD Mature 2
+Inhibitory
+Inhibitory
+OD Mature 1
+OD Mature 2
+Excitatory
+Excitatory
+OD Mature 2
+Astrocyte
+Astrocyte
+OD Mature 2
+Excitatory
+OD Mature 2
+OD Mature 2
+Astrocyte
+Excitatory
+Excitatory
+Endothelial 2
+Excitatory
+OD Mature 2
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+OD Mature 2
+Excitatory
+OD Mature 2
+Astrocyte
+OD Mature 2
+Excitatory
+OD Mature 2
+OD Mature 2
+Excitatory
+Inhibitory
+Endothelial 1
+OD Mature 2
+OD Mature 2
+Excitatory
+Astrocyte
+Inhibitory
+Excitatory
+Astrocyte
+Endothelial 1
+Endothelial 1
+Astrocyte
+Inhibitory
+OD Mature 2
+Astrocyte
+OD Mature 2
+OD Mature 2
+Inhibitory
+Endothelial 3
+Inhibitory
+Microglia
+Excitatory
+Excitatory
+Astrocyte
+Excitatory
+OD Mature 2
+Microglia
+Inhibitory
+Excitatory
+Microglia
+OD Mature 2
+Excitatory
+Microglia
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+OD Mature 2
+Excitatory
+Excitatory
+Inhibitory
+OD Mature 2
+Astrocyte
+Excitatory
+Endothelial 1
+Excitatory
+OD Mature 2
+OD Mature 2
+OD Mature 2
+OD Mature 2
+Excitatory
+OD Mature 2
+OD Mature 2
+OD Mature 2
+Excitatory
+Excitatory
+Inhibitory
+Astrocyte
+OD Mature 2
+Endothelial 1
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+OD Mature 2
+OD Mature 2
+Astrocyte
+Excitatory
+OD Mature 2
+Excitatory
+Microglia
+OD Mature 4
+Excitatory
+OD Mature 4
+OD Mature 2
+Astrocyte
+Astrocyte
+OD Mature 4
+OD Mature 2
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Excitatory
+Excitatory
+Microglia
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Endothelial 1
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Endothelial 1
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 3
+Astrocyte
+Inhibitory
+OD Immature 1
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+OD Immature 1
+OD Immature 1
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 3
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Microglia
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 1
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Astrocyte
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Endothelial 1
+Endothelial 1
+OD Mature 2
+Endothelial 1
+Inhibitory
+Astrocyte
+Excitatory
+Microglia
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+OD Immature 1
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Endothelial 1
+Microglia
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 1
+Endothelial 1
+Inhibitory
+Microglia
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Endothelial 1
+Astrocyte
+Astrocyte
+Excitatory
+Inhibitory
+OD Mature 2
+OD Immature 1
+Inhibitory
+OD Mature 2
+Excitatory
+OD Immature 1
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Endothelial 1
+Excitatory
+Astrocyte
+OD Immature 1
+OD Immature 1
+Inhibitory
+Excitatory
+Pericytes
+Inhibitory
+Inhibitory
+Microglia
+OD Mature 2
+Pericytes
+OD Mature 2
+Excitatory
+Astrocyte
+Inhibitory
+Microglia
+Pericytes
+Inhibitory
+Excitatory
+Microglia
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+OD Mature 2
+Astrocyte
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+OD Immature 1
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 2
+Astrocyte
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+OD Immature 1
+Excitatory
+Inhibitory
+Excitatory
+Astrocyte
+Endothelial 1
+Inhibitory
+Inhibitory
+Endothelial 3
+Astrocyte
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+OD Immature 1
+OD Immature 1
+Astrocyte
+Inhibitory
+Astrocyte
+Excitatory
+Excitatory
+Astrocyte
+Excitatory
+Microglia
+Inhibitory
+Astrocyte
+Endothelial 1
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+OD Mature 2
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+OD Mature 2
+Astrocyte
+Excitatory
+Inhibitory
+Astrocyte
+Excitatory
+Endothelial 1
+Excitatory
+Excitatory
+OD Mature 2
+Astrocyte
+Astrocyte
+OD Mature 1
+Astrocyte
+Excitatory
+Endothelial 1
+Endothelial 1
+OD Immature 1
+Inhibitory
+Excitatory
+Inhibitory
+Endothelial 1
+Astrocyte
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Astrocyte
+Astrocyte
+Excitatory
+Excitatory
+Astrocyte
+Endothelial 1
+OD Mature 2
+Excitatory
+OD Mature 2
+Endothelial 3
+Excitatory
+Endothelial 1
+Inhibitory
+Endothelial 3
+Excitatory
+Astrocyte
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Excitatory
+Astrocyte
+OD Immature 1
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Microglia
+Endothelial 1
+Endothelial 1
+Endothelial 2
+Inhibitory
+Endothelial 3
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+OD Immature 1
+Inhibitory
+OD Mature 2
+Inhibitory
+Excitatory
+Endothelial 1
+Endothelial 1
+OD Immature 1
+Inhibitory
+OD Mature 2
+Excitatory
+OD Mature 2
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Endothelial 1
+OD Mature 2
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Endothelial 3
+Excitatory
+Endothelial 1
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Excitatory
+OD Mature 2
+Inhibitory
+Astrocyte
+OD Mature 2
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Astrocyte
+Endothelial 1
+Inhibitory
+Astrocyte
+Excitatory
+OD Immature 1
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Astrocyte
+Astrocyte
+Endothelial 1
+OD Mature 2
+Endothelial 3
+Astrocyte
+Endothelial 3
+Inhibitory
+Inhibitory
+Excitatory
+Microglia
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Endothelial 1
+Excitatory
+OD Mature 2
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+OD Mature 2
+OD Mature 2
+Inhibitory
+Astrocyte
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Astrocyte
+Astrocyte
+Microglia
+Excitatory
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+OD Mature 2
+Excitatory
+OD Mature 1
+Endothelial 3
+Pericytes
+Inhibitory
+Inhibitory
+Astrocyte
+OD Immature 1
+Inhibitory
+Inhibitory
+OD Mature 2
+Endothelial 1
+Excitatory
+Inhibitory
+Astrocyte
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Endothelial 3
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 2
+Endothelial 3
+OD Mature 2
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Astrocyte
+Pericytes
+Excitatory
+Inhibitory
+Astrocyte
+OD Mature 2
+Inhibitory
+Inhibitory
+Excitatory
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+OD Immature 1
+Inhibitory
+Microglia
+Endothelial 3
+Excitatory
+Inhibitory
+Microglia
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Excitatory
+Inhibitory
+Inhibitory
+OD Immature 1
+OD Mature 2
+Astrocyte
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+OD Immature 1
+Excitatory
+Astrocyte
+Endothelial 1
+OD Mature 2
+Inhibitory
+Inhibitory
+Microglia
+Endothelial 2
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Endothelial 1
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Astrocyte
+Endothelial 1
+Astrocyte
+Astrocyte
+Astrocyte
+Inhibitory
+OD Mature 4
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 3
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 3
+OD Mature 2
+Excitatory
+Endothelial 1
+Astrocyte
+Endothelial 3
+Inhibitory
+Inhibitory
+Astrocyte
+Endothelial 3
+Inhibitory
+Endothelial 3
+Microglia
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Excitatory
+Excitatory
+OD Immature 1
+OD Immature 1
+Astrocyte
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Excitatory
+Excitatory
+OD Mature 1
+Astrocyte
+OD Immature 1
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Microglia
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Astrocyte
+Astrocyte
+Inhibitory
+Endothelial 1
+Excitatory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+OD Mature 1
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Microglia
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Endothelial 1
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 1
+Excitatory
+OD Mature 2
+Excitatory
+Excitatory
+Endothelial 1
+OD Mature 1
+OD Mature 2
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Endothelial 1
+Excitatory
+Astrocyte
+Excitatory
+OD Mature 2
+Inhibitory
+Excitatory
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Microglia
+Excitatory
+OD Mature 2
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Microglia
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Astrocyte
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+OD Mature 2
+OD Mature 2
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+OD Immature 1
+Inhibitory
+Inhibitory
+Astrocyte
+OD Mature 1
+Astrocyte
+Astrocyte
+OD Immature 1
+Excitatory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Mature 1
+Inhibitory
+Astrocyte
+Endothelial 3
+Astrocyte
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+OD Mature 1
+OD Mature 1
+Astrocyte
+Astrocyte
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Inhibitory
+Excitatory
+Endothelial 1
+Astrocyte
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+OD Mature 1
+Excitatory
+Excitatory
+Microglia
+Excitatory
+OD Mature 1
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Microglia
+Excitatory
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+OD Immature 1
+Inhibitory
+OD Mature 1
+OD Immature 1
+Inhibitory
+Inhibitory
+Astrocyte
+Excitatory
+Microglia
+Inhibitory
+OD Mature 1
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Endothelial 2
+Microglia
+Inhibitory
+Inhibitory
+Astrocyte
+Pericytes
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+OD Immature 1
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Ependymal
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Ependymal
+Astrocyte
+Inhibitory
+Ependymal
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Ependymal
+Ependymal
+Ependymal
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Endothelial 1
+Astrocyte
+Ependymal
+Endothelial 3
+Ependymal
+Ependymal
+Ependymal
+Endothelial 3
+OD Immature 1
+Endothelial 1
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Endothelial 1
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Endothelial 1
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Astrocyte
+Excitatory
+Excitatory
+Endothelial 3
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Endothelial 1
+Inhibitory
+Inhibitory
+Excitatory
+Excitatory
+Astrocyte
+Inhibitory
+Excitatory
+Astrocyte
+Astrocyte
+Excitatory
+Excitatory
+Inhibitory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+OD Mature 2
+Inhibitory
+Inhibitory
+Endothelial 3
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+OD Immature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+OD Immature 1
+Inhibitory
+Endothelial 1
+Endothelial 3
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 3
+OD Mature 2
+Excitatory
+OD Mature 2
+OD Mature 2
+OD Mature 2
+Inhibitory
+Excitatory
+Astrocyte
+OD Mature 2
+OD Mature 1
+Inhibitory
+Excitatory
+Excitatory
+Microglia
+Astrocyte
+Inhibitory
+Excitatory
+OD Mature 1
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Endothelial 1
+Inhibitory
+Microglia
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 3
+Excitatory
+Inhibitory
+Excitatory
+Inhibitory
+Inhibitory
+OD Mature 2
+Excitatory
+Endothelial 1
+Inhibitory
+Excitatory
+Excitatory
+Excitatory
+Excitatory
+Inhibitory
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Endothelial 1
+Excitatory
+Inhibitory
+Inhibitory
+Endothelial 1
+Inhibitory
+OD Mature 2
+Inhibitory
+Inhibitory
+Inhibitory
+Astrocyte
+Inhibitory
+Inhibitory
+Astrocyte
+OD Immature 1
+Inhibitory
+Inhibitory
+Microglia
+Astrocyte

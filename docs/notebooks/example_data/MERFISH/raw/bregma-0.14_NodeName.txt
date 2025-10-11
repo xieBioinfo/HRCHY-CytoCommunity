@@ -1,0 +1,15 @@
+Astrocyte
+Endothelial 1
+Endothelial 2
+Endothelial 3
+Ependymal
+Excitatory
+Inhibitory
+Microglia
+OD Immature 1
+OD Immature 2
+OD Mature 1
+OD Mature 2
+OD Mature 3
+OD Mature 4
+Pericytes

@@ -1,0 +1,14 @@
+,Parameter,Value
+0,mode,full
+1,s,5
+2,num_tcn1,12
+3,num_tcn2,2
+4,num_epoch,1500
+5,lambda1,1
+6,lambda_balance,1
+7,num_hidden,128
+8,lr,0.0001
+9,drop_rate,0.5
+10,gt_fine,True
+11,gt_coarse,False
+12,device,cuda:0

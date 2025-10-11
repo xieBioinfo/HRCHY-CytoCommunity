@@ -1,8 +1,21 @@
-[build-system]
-requires = ["flit_core >=3.2,<4"]
-build-backend = "flit_core.buildapi"
-
 [project]
-name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
-dynamic = ["version", "description"]
+name = "hrchy_cytocommunity"
+version = "0.0.5"
+authors = [
+    { name="Runzhi Xie", email="rzxie@stu.xidian.edu.cn" },
+    { name="Zekun Wang", email="22031212461@stu.xidian.edu.cn" },
+    { name="Lin Gao", email="lgao@mail.xidian.edu.cn" },
+    { name="Yuxuan Hu", email="huyuxuan@xidian.edu.cn" },
+]
+description = "A computational method for identifying hierarchical tissue structures in a cell phenotype-annotated cellular spatial map."
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/huBioinfo/HRCHY-CytoCommunity"
+Issues = "https://github.com/huBioinfo/HRCHY-CytoCommunity/issues"

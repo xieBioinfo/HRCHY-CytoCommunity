@@ -1,0 +1,26 @@
+B cells
+B220(+) DN T cells
+CD106(+)CD16/32(+)CD31(+) stroma
+CD106(+)CD16/32(+)CD31(-)Ly6C(-) stroma
+CD106(+)CD16/32(-)Ly6C(+)CD31(+)
+CD106(-)CD16/32(+)Ly6C(+)CD31(-)
+CD106(-)CD16/32(-)Ly6C(+)CD31(+) stroma
+CD11c(+) B cells
+CD3(+) other markers (-)
+CD31(hi) vascular
+CD4(+) T cells
+CD4(+)CD8(-)cDC
+CD4(+)MHCII(+)
+CD4(-)CD8(+)cDC
+CD4(-)CD8(-) cDC
+CD8(+) T cells
+ERTR7(+) stroma
+F4/80(+) mphs
+FDCs
+NK cells
+capsule
+erythroblasts
+granulocytes
+marginal zone mphs
+megakaryocytes
+plasma cells
