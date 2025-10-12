@@ -50,6 +50,90 @@ def entropy_loss(S):
     return 1- cluster_entropy / max_entropy
 
 class HRCHYCytoCommunityGrand:
+    """
+    Hierarchical Community Detection Model (full model)
+
+    This class implements a hierarchical tissue structure identification model
+    that integrates a differentiable graph pooling mechanism (MinCut-based)
+    with spatial feature learning on single-cell spatial omics data.
+    It extends HRCHYCytoCommunity by introducing consitency and entropy-based balance regularization.
+
+    Parameters
+    ----------
+    dataset : object
+        Input dataset object, which must contain at least `num_features` attribute
+        and provide node features and adjacency information for graph construction.
+    num_tcn1 : int
+        Number of fine-grained Cellular neighborhood (TCN1 level).
+    num_tcn2 : int
+        Number of coarse-grained tissue compartments (TCN2 level).
+    cell_meta : pandas.DataFrame or dict
+        Metadata for each cell, typically including cell type, position, or annotations(optimal).
+    lr : float, default=1e-4
+        Learning rate for the optimizer.
+    alpha : float, default=0.9
+        Initial balance coefficient between fine-grained and coarse-grained objectives, not recommend to change.
+    num_epoch : int, default=1500
+        Number of training epochs.
+    lambda1 : float, default=1.0
+        Weight of consistency regularization loss term.
+    lambda2 : float, default=1.0
+        Weight of orthogonality loss term. Not recommend to change.
+    lambda_balance : float, default=1.0
+        Weight balancing the hierarchy consistency regularization.
+    edge_pruning_cutoff : float or None, optional
+        Threshold for edge pruning. If None, defaults to 1 / (num_tcn1 - 1).
+    temp : float, default=1.0
+        Temperature coefficient for soft assignment scaling.
+    s : int, default=10
+        Scaling factor controlling graph coarsening strength.
+    drop_rate : float, default=0.5
+        Dropout probability used in GNN layers for regularization.
+    device : str or torch.device or None, optional
+        Device to run the model on. If None, automatically selects `'cuda'` if available,
+        otherwise `'cpu'`.
+    num_hidden : int, default=128
+        Number of hidden channels in the graph neural network.
+    gt_coarse : bool, default=False
+        Whether to use ground truth coarse-level annotations (for benchmarking or supervision).
+    gt_fine : bool, default=False
+        Whether to use ground truth fine-level annotations.
+
+    Attributes
+    ----------
+    model : SparseNet_Grand
+        Underlying graph neural network model instance.
+    device : str
+        Device string used by PyTorch (`'cuda'` or `'cpu'`).
+    edge_pruning_cutoff : float
+        Final threshold used for edge pruning.
+    lr, alpha, epochs, lambda1, lambda2, lambda_balance, temp, drop_rate, S : float or int
+        Model hyperparameters stored after initialization.
+
+    Notes
+    -----
+    - The model automatically constructs an internal `SparseNet_Grand` instance based
+      on dataset feature dimensions and user-specified clustering parameters.
+    - This class supports GPU acceleration via CUDA when available.
+    - The naming convention follows:
+        * TCN1 — fine-grained tissue community nodes
+        * TCN2 — coarse-grained tissue community nodes
+
+    Examples
+    --------
+    >>> model = HRCHYCytoCommunityGrand(
+    ...     dataset=my_dataset,
+    ...     num_tcn1=10,
+    ...     num_tcn2=2,
+    ...     cell_meta=meta_df,
+    ...     lr=1e-3,
+    ...     device='cuda'
+    ... )
+    >>> print(model.device)
+    'cuda'
+    >>> print(model.model)
+    SparseNet_Grand(...)
+    """
     def __init__(self,
                  dataset,
                  num_tcn1,
@@ -70,11 +154,7 @@ class HRCHYCytoCommunityGrand:
                  gt_coarse = False,
                  gt_fine = False,
                  ):
-        """
-        Parameters
-        lambda1 # Coefficient of consistency regularization
-        ----------
-        """
+        
         self.dataset = dataset
         self.Num_TCN = num_tcn1
         self.Num_TCN2 = num_tcn2
@@ -112,6 +192,15 @@ class HRCHYCytoCommunityGrand:
             
 
     def train(self,save_dir,output = False,vis_while_training = False):
+        """
+        Parameters
+        ----------
+        output : bool
+        whether output the training information to screen or not
+        vis_while_training : bool
+        whether visualize the hierarchical tissue structure assignment during training or not
+
+        """
         loss_all = 0
         loss_1 = 0
         loss_2 = 0
@@ -121,13 +210,8 @@ class HRCHYCytoCommunityGrand:
         loss_6 = 0
         loss_7 = 0
         data = self.dataset   # only support single graph training
-        # alpha_min = 0.1                # 目标最小值
-        # update_every = 100              # 每 N 个 epoch 更新一次 alpha
-        # num_updates = self.epochs // update_every
-        # # 计算 decay rate
-        # decay_rate = (alpha_min / self.alpha) ** (1 / num_updates)
-        alpha_min = 1-self.alpha                # 目标最小值
-        update_every = 100              # 每 N 个 epoch 更新一次 alpha
+        alpha_min = 1-self.alpha                # 
+        update_every = 100              # update alpha for each N epoch
         decay_num = (alpha_min-self.alpha) * update_every /self.epochs
         RunFolderName = save_dir
         if not os.path.exists(RunFolderName):
@@ -215,6 +299,17 @@ class HRCHYCytoCommunityGrand:
         return 
     
     def predict(self,save = False,save_dir = './results'):
+        """
+        predict the hierarchical tissue structure assignment
+
+        Parameters
+        ----------
+        save : bool
+        whether save the hierarchical tissue structure assignment to disk or not 
+        save_dir : str (path)
+        the directory to save the hierarchical tissue structure assignment
+
+        """
         data = self.dataset
         with torch.no_grad():
             self.model.eval()
@@ -272,6 +367,79 @@ class HRCHYCytoCommunityGrand:
 
 
 class HRCHYCytoCommunity:
+    """
+    Hierarchical Community Detection Model (base model)
+
+    This class implements a hierarchical tissue structure identification base model
+    that integrates a differentiable graph pooling mechanism (MinCut-based)
+    with spatial feature learning on single-cell spatial omics data.
+
+    Parameters
+    ----------
+    dataset : object
+        Input dataset object, which must contain at least `num_features` attribute
+        and provide node features and adjacency information for graph construction.
+    num_tcn1 : int
+        Number of fine-grained Cellular neighborhood (TCN1 level).
+    num_tcn2 : int
+        Number of coarse-grained tissue compartments (TCN2 level).
+    cell_meta : pandas.DataFrame or dict
+        Metadata for each cell, typically including cell type, position, or annotations(optimal).
+    lr : float, default=1e-4
+        Learning rate for the optimizer.
+    alpha : float, default=0.9
+        Initial balance coefficient between fine-grained and coarse-grained objectives, not recommend to change.
+    num_epoch : int, default=1500
+        Number of training epochs.
+    lambda2 : float, default=1.0
+        Weight of orthogonality loss term. Not recommend to change.
+    edge_pruning_cutoff : float or None, optional
+        Threshold for edge pruning. If None, defaults to 1 / (num_tcn1 - 1).
+    device : str or torch.device or None, optional
+        Device to run the model on. If None, automatically selects `'cuda'` if available,
+        otherwise `'cpu'`.
+    num_hidden : int, default=128
+        Number of hidden channels in the graph neural network.
+    gt_coarse : bool, default=False
+        Whether to use ground truth coarse-level annotations (for benchmarking or supervision).
+    gt_fine : bool, default=False
+        Whether to use ground truth fine-level annotations.
+
+    Attributes
+    ----------
+    model : SparseNet
+        Underlying graph neural network model instance.
+    device : str
+        Device string used by PyTorch (`'cuda'` or `'cpu'`).
+    edge_pruning_cutoff : float
+        Final threshold used for edge pruning.
+    lr, alpha, epochs, lambda1: float or int
+        Model hyperparameters stored after initialization.
+
+    Notes
+    -----
+    - The model automatically constructs an internal `SparseNet` instance based
+      on dataset feature dimensions and user-specified clustering parameters.
+    - This class supports GPU acceleration via CUDA when available.
+    - The naming convention follows:
+        * TCN1 — fine-grained tissue community nodes
+        * TCN2 — coarse-grained tissue community nodes
+
+    Examples
+    --------
+    >>> model = HRCHYCytoCommunityGrand(
+    ...     dataset=my_dataset,
+    ...     num_tcn1=10,
+    ...     num_tcn2=2,
+    ...     cell_meta=meta_df,
+    ...     lr=1e-3,
+    ...     device='cuda'
+    ... )
+    >>> print(model.device)
+    'cuda'
+    >>> print(model.model)
+    SparseNet(...)
+    """
     def __init__(self,
                  dataset,
                  num_tcn1,
@@ -289,11 +457,6 @@ class HRCHYCytoCommunity:
                  gt_coarse = False,
                  gt_fine = False,
                  ):
-        """
-        Parameters
-        lambda1 # Coefficient of consistency regularization
-        ----------
-        """
         self.dataset = dataset
         self.Num_TCN = num_tcn1
         self.Num_TCN2 = num_tcn2
@@ -318,6 +481,15 @@ class HRCHYCytoCommunity:
         
 
     def train(self,save_dir,output = False,vis_while_training = False):
+        """
+        Parameters
+        ----------
+        output : bool
+        whether output the training information to screen or not
+        vis_while_training : bool
+        whether visualize the hierarchical tissue structure assignment during training or not
+
+        """
         loss_all = 0
         loss_1 = 0
         loss_2 = 0
@@ -404,6 +576,17 @@ class HRCHYCytoCommunity:
         return 
     
     def predict(self, save = False,save_dir = './results'):
+        """
+        predict the hierarchical tissue structure assignment
+
+        Parameters
+        ----------
+        save : bool
+        whether save the hierarchical tissue structure assignment to disk or not 
+        save_dir : str (path)
+        the directory to save the hierarchical tissue structure assignment
+
+        """
         data = self.dataset
         with torch.no_grad():
             self.model.eval()
