@@ -3,9 +3,9 @@ HRCHY-CytoCommunity  is available for Python 3.10. It does yet not support Apple
 
 ## Hardware requirement 
 
-Memory: 2GB or more
-Storage: 4GB or more
-CUDA memory: 4GB or more (For CODEX example dataset K=50, #Cell=80000)
+- Memory: 2GB or more
+- Storage: 4GB or more
+- CUDA memory: 4GB or more (For CODEX example dataset K=50, #Cell=80000)
 
 ## Software requirement
 
@@ -13,15 +13,14 @@ For convenience, we suggest using a separate conda environment for running HRCHY
 
 ### Step 1. create conda environment
 
-```
+```bash
 #create an environment called hrchy_cytocommunity_env
 conda create -n hrchy_cytocommunity_env python=3.10
 
 #activate your environment
 conda activate hrchy_cytocommunity_env
-
 ```
-You can also 
+
 ### Step 2. install additional libraries
 
 To use HRCHY-CytoCommunity, you need to install some external libraries. These include:
@@ -73,7 +72,7 @@ pip install scanpy pandas scipy statsmodels scikit-learn seaborn tqdm matplotlib
 
 Alternatively, we have provided a conda environment file with all required external libraries, which you can use as:
 
-```
+```bash
 conda env create -f environment.yaml
 ```
 
@@ -82,7 +81,6 @@ conda env create -f environment.yaml
 ## Installation via PyPi
 Subsequently, install HRCHY-CytoCommunity via pip:
 
-```
+```bash
 pip install hrchy-cytocommunity
-
 ```

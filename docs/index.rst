@@ -21,15 +21,22 @@ HRCHY-CytoCommunity: A computational method for identifying hierarchical tissue 
    :maxdepth: 1
    :caption: Tutorials
    
-   notebooks/Tutorial_1_CODEX
+   notebooks/Tutorial_1_MIBITOF
+   notebooks/Tutorial_3_CODEX
    notebooks/Tutorial_2_MERFISH
-   notebooks/Tutorial_3_MIBITOF
+   notebooks/Tutorial_4_VisiumBC
 
 .. toctree::
    :maxdepth: 1
    :caption: User Guide:
 
    user_guide/hyperparameter
+
+.. toctree::
+   :maxdepth: 1
+   :caption: API:
+
+   api/api_reference
 
 .. image:: ../Figures/Schematic.jpg
    :width: 1400
