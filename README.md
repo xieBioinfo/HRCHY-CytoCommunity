@@ -30,13 +30,12 @@ Building upon our recently established tissue structure identification framework
 
 
 ## Getting started
-Please refer to the documentation. In particular, the
+Please refer to the [documentation](https://hrchy-cytocommunity.readthedocs.io/en/latest/index.html). In particular, the
 
 - [Installation](https://hrchy-cytocommunity.readthedocs.io/en/latest/Installation.html)
-- [API documentation](https://hrchy-cytocommunity.readthedocs.io/en/latest/index.html)
 - [Tutorials](https://hrchy-cytocommunity.readthedocs.io/en/latest/index.html)
 - [User guide](https://hrchy-cytocommunity.readthedocs.io/en/latest/user_guide/hyperparameter.html)
-
+- [API documentation](https://hrchy-cytocommunity.readthedocs.io/en/latest/api/api_reference.html)
 
 ## Maintainers
 
