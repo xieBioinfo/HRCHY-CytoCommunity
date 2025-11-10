@@ -43,7 +43,7 @@ def entropy(p, dim=-1, eps=1e-10):
     return -(p * torch.log(p)).sum(dim=dim)
 
 def entropy_loss(S):
-    S = torch.softmax(S,dim=-1)
+    # S = torch.softmax(S,dim=-1)
     cluster_probs = S.mean(dim = 0)
     cluster_entropy = entropy(cluster_probs)
     max_entropy = torch.log(torch.tensor(S.shape[1], dtype=torch.float))
@@ -522,9 +522,8 @@ class HRCHYCytoCommunity:
                 self.alpha += decay_num
                 # print(f"Epoch {epoch+1}: alpha updated to {self.alpha:.4f}")
             loss_unsup = self.alpha * (mc1 + self.lambda2 * o1) + (1 - self.alpha) * (mc2 + self.lambda2* o2)
-            loss_entropy = entropy_loss(s2)
-            # loss = mc_loss1 + o_loss1 + mc_loss2 +o_loss2
-            loss = loss_unsup #+ self.lambda_balance * loss_entropy
+            loss_entropy = entropy_loss(torch.softmax(s2,dim=-1))
+            loss = loss_unsup + self.lambda_balance * loss_entropy
             loss.backward()
             loss_all += loss.item()
             loss_1 += mc1.item()
