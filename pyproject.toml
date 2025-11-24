@@ -1,6 +1,6 @@
 [project]
 name = "hrchy_cytocommunity"
-version = "0.0.6"
+version = "0.0.7"
 authors = [
     { name="Runzhi Xie", email="rzxie@stu.xidian.edu.cn" },
     { name="Zekun Wang", email="22031212461@stu.xidian.edu.cn" },
